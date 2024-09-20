@@ -5,6 +5,8 @@
 
 💡 As a Computer Science graduate from PES University, I've always been fascinated by the practical applications of programming. Today, as a Senior Software Engineer at Commvault, I have the privilege of turning my passion into a career. Every day, I strive to learn more and create technologies that solve real-world challenges. My expertise spans Full Stack Development, REST APIs, Cloud Computing, Computer Networks, and Automation. I also have significant hands-on experience with Azure.
 
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/jnanesh-d)** 🔗
+
 ---
 
 ## 💼 Experience
@@ -15,8 +17,10 @@ _Full-time_ | _Jan 2024 - Present (9 months)_
 **Bengaluru, Karnataka, India (Hybrid)**  
 - 🚧 **Developed** a new internal staging portal using **React, Golang, and Kubernetes**.
 - 🐳 Utilized **Kubernetes** and **Docker** containers for staging deployments, significantly reducing VM costs.
+- 🔧 **Designed, developed, and maintained** comprehensive **REST API documentation** using **Docusaurus** with custom React components.
+- 🛠️ **Designed and developed** a **Developer Portal** using **Docusaurus**, including **React customizations** to cater to internal needs.
 - 🔧 **Designed and maintained** PowerShell SDKs.
-
+- 🌐 Conducted in-depth testing for major projects in Network, AI and REST APIs 
 ---
 
 ### **Engineer** ⚙️  
